@@ -2,16 +2,8 @@ audeer==1.19.0
 audformat==0.16.0
 audiofile==1.2.1
 audmath==1.2.1
-cffi==1.15.1
-iso-639==0.4.5
-iso3166==2.1.1
-numpy @ file:///Users/runner/miniforge3/conda-bld/numpy_1675642800940/work
-oyaml==1.0
 pandas==1.5.3
 pycparser==2.21
-python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1626286286081/work
-pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1673864280276/work
 PyYAML==6.0
-six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
 soundfile==0.12.1
 tqdm==4.65.0
